@@ -1,5 +1,5 @@
 {
-  "name": "my_nextauth_app",
+  "name": "my-nextauth-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,8 +19,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "prima": "^0.0.1",
-    "tailwindcss": "^4",
-    "typescript": "^5.8.2"
+    "prisma": "^6.5.0",
+    "tailwindcss": "^4"
   }
 }
